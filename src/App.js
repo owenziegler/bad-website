@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div style={{backgroundColor: 'limegreen',height:'100vh'}}>
+    <div>
       <h1 style={{color:'yellow'}}>
         Hello!
       </h1>
